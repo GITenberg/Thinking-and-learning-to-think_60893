@@ -1,0 +1,24 @@
+_repo: Thinking-and-learning-to-think_60893
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schaeffer, Nathan C.
+    gutenberg_agent_id: '51175'
+    url: http://www.gutenberg.org/2009/agents/51175
+  editor:
+    agent_name: Brumbaugh, Martin G.
+    gutenberg_agent_id: '51176'
+    url: http://www.gutenberg.org/2009/agents/51176
+description: ''
+gutenberg_issued: '2019-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thinking and learning to think
+url: http://www.gutenberg.org/ebooks/60893
